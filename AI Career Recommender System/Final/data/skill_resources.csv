@@ -1,0 +1,48 @@
+Skill,Resources,Free Certification
+C,"https://www.learn-c.org/, https://www.programiz.com/c-programming",No
+C++,"https://www.learncpp.com/, https://www.programiz.com/cpp-programming",No
+C#,"https://learn.microsoft.com/en-us/dotnet/csharp/, https://www.programiz.com/csharp-programming",No
+Python,"https://docs.python.org/3/tutorial/, https://www.learnpython.org/",No
+SQL,"https://mode.com/sql-tutorial/, https://www.khanacademy.org/computing/computer-programming/sql",Yes
+Excel,"https://exceljet.net/, https://edu.gcfglobal.org/en/excel/",No
+Tableau,"https://www.tableau.com/learn/training, https://www.simplilearn.com/free-tableau-course-skillup",Yes
+Java,"https://www.learnjavaonline.org/, https://www.geeksforgeeks.org/java/",No
+Spring,"https://spring.io/guides, https://www.baeldung.com/spring-tutorial",No
+TensorFlow,"https://www.tensorflow.org/tutorials, https://developers.google.com/machine-learning/crash-course",No
+Pandas,"https://pandas.pydata.org/docs/getting_started/, https://www.kaggle.com/learn/pandas",Yes
+NumPy,"https://numpy.org/learn/, https://www.kaggle.com/learn/numpy",Yes
+HTML,"https://developer.mozilla.org/en-US/docs/Web/HTML, https://www.w3schools.com/html/",No
+CSS,"https://developer.mozilla.org/en-US/docs/Web/CSS, https://www.w3schools.com/css/",No
+JavaScript,"https://javascript.info/, https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",Yes
+React,"https://react.dev/learn, https://www.freecodecamp.org/learn/front-end-development-libraries/react/",Yes
+Node.js,"https://nodejs.org/en/learn, https://www.freecodecamp.org/learn/back-end-development-and-apis/",Yes
+MongoDB,"https://www.mongodb.com/docs/manual/, https://university.mongodb.com/",Yes
+AWS,"https://aws.amazon.com/training/, https://explore.skillbuilder.aws/learn",No
+Linux,"https://linuxjourney.com/, https://ubuntu.com/tutorials",No
+Docker,"https://docs.docker.com/get-started/, https://www.freecodecamp.org/news/docker-tutorial/",Yes
+Kubernetes,"https://kubernetes.io/docs/tutorials/, https://kube.academy/",Yes
+Git,"https://git-scm.com/docs, https://www.atlassian.com/git/tutorials",No
+CI/CD,"https://www.redhat.com/en/topics/devops/what-is-ci-cd, https://www.geeksforgeeks.org/ci-cd-in-devops/",No
+Networking,"https://www.geeksforgeeks.org/computer-network-tutorials/, https://www.cisco.com/c/en/us/training-events/training-certifications/training.html",No
+Firewalls,"https://www.cloudflare.com/learning/ddos/glossary/firewall/, https://skillsforall.com/course/cybersecurity-essentials",Yes
+Ethical Hacking,"https://tryhackme.com/, https://www.hackthebox.com/",Yes
+Spark,"https://spark.apache.org/docs/latest/, https://www.datacamp.com/courses/introduction-to-pyspark",No
+ETL,"https://www.talend.com/resources/what-is-etl/, https://www.ibm.com/topics/etl",No
+Power BI,"https://learn.microsoft.com/en-us/power-bi/fundamentals/, https://www.edx.org/learn/power-bi",Yes
+Communication,"https://www.coursera.org/learn/wharton-communication, https://www.mindtools.com/pages/main/newMN_CMN.htm",Yes
+Kotlin,"https://kotlinlang.org/docs/home.html, https://developer.android.com/kotlin",Yes
+Android Studio,"https://developer.android.com/studio, https://developer.android.com/courses/android-basics-compose/course",Yes
+Scikit-learn,"https://scikit-learn.org/stable/tutorial/basic/tutorial.html, https://www.datacamp.com/courses/supervised-learning-with-scikit-learn",No
+Manual Testing,"https://www.guru99.com/manual-testing.html, https://www.softwaretestinghelp.com/manual-testing-tutorial-1/",No
+Selenium,"https://www.selenium.dev/documentation/, https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/",Yes
+Bugzilla,"https://www.bugzilla.org/docs/, https://www.guru99.com/bugzilla-tutorial.html",No
+MySQL,"https://www.mysqltutorial.org/, https://www.khanacademy.org/computing/computer-programming/sql",Yes
+Performance Tuning,"https://www.geeksforgeeks.org/database-performance-tuning-tasks/, https://www.red-gate.com/hub/product-learning/sql-prompt/sql-performance-tuning",No
+Backup & Recovery,"https://www.oracle.com/database/technologies/backup-and-recovery.html, https://www.ibm.com/docs/en/db2",No
+Figma,"https://help.figma.com/hc/en-us/articles/360040514373, https://www.coursera.org/projects/create-designs-in-figma",Yes
+Adobe XD,"https://helpx.adobe.com/xd/tutorials.html, https://www.adobe.com/products/xd/learn.html",No
+Design Thinking,"https://www.ideou.com/pages/design-thinking, https://www.coursera.org/learn/uva-darden-design-thinking-innovation",Yes
+.NET,"https://learn.microsoft.com/en-us/dotnet/core/introduction, https://dotnet.microsoft.com/en-us/learn",Yes
+REST API,"https://restfulapi.net/, https://www.freecodecamp.org/news/what-is-a-rest-api/",No
+DSA,"https://www.geeksforgeeks.org/data-structures/, https://www.coursera.org/specializations/data-structures-algorithms",No
+Problem Solving,"https://www.hackerrank.com/domains/tutorials/10-days-of-javascript, https://leetcode.com/",No

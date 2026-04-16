@@ -1,0 +1,30 @@
+Job Role,Required Skills,Category,Avg Salary
+Data Analyst,"Python;SQL;Excel;Tableau",Data Science,600000
+Data Scientist,"Python;Pandas;NumPy;Scikit-learn",Data Science,900000
+Data Engineer,"Python;Spark;SQL;ETL",Data Engineering,780000
+Business Analyst,"Excel;SQL;Power BI;Communication",Business,650000
+Backend Developer,"Java;Spring;SQL;REST API",Software Development,700000
+Frontend Developer,"HTML;CSS;JavaScript;React",Software Development,650000
+Full Stack Developer,"JavaScript;React;Node.js;MongoDB;REST API",Software Development,750000
+Web Developer,"HTML;CSS;JavaScript",Software Development,600000
+Software Developer,"Java;Python;Git",Software Development,650000
+API Developer,"Node.js;Java;SQL",Software Development,700000
+AI Engineer,"Python;TensorFlow;Pandas;NumPy",AI/ML,800000
+ML Engineer,"Python;Scikit-learn;TensorFlow;NumPy",AI/ML,850000
+Cloud Engineer,"AWS;Linux;Docker;Kubernetes",Cloud Computing,850000
+DevOps Engineer,"Git;Docker;CI/CD;Kubernetes",Software Development,800000
+Site Reliability Engineer,"Linux;Docker;Kubernetes;CI/CD",Cloud Computing,900000
+Cybersecurity Analyst,"Networking;Linux;Firewalls;Ethical Hacking",Security,720000
+Security Engineer,"Networking;Linux;Ethical Hacking",Security,800000
+Mobile App Developer,"Java;Kotlin;Android Studio",App Development,700000
+Android Developer,"Kotlin;Android Studio;Java",App Development,700000
+Software Tester,"Manual Testing;Selenium;Java;Bugzilla",Testing,600000
+Automation Tester,"Selenium;Java;Manual Testing",Testing,650000
+Database Administrator,"SQL;MySQL;Performance Tuning;Backup & Recovery",Database,700000
+UI/UX Designer,"Figma;Adobe XD;Design Thinking;CSS",Design,650000
+Embedded Systems Engineer,"C;Linux;Networking",Core Engineering,750000
+Game Developer,"C++;C#;Design Thinking",Software Development,800000
+System Software Engineer,"C;C++;Linux",Software Development,850000
+.NET Developer,"C#;.NET;SQL",Software Development,700000
+Software Engineer,"Java;Python;DSA;Git",Software Development,700000
+Competitive Programmer,"C++;DSA;Problem Solving",Software Development,600000
